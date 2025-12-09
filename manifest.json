@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Internet Speed Monitor",
+  "version": "1.0.0",
+  "description": "Real-time internet speed monitoring every second",
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Internet Speed Monitor"
+  }
+}

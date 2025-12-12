@@ -3,7 +3,7 @@ A Chrome extension that continuously monitors and displays real-time internet sp
 
 *Installation Instructions:
 
-Download all 5 files to a folder named internet-speed-extension
+Download all 5 files to a folder named internet-speed-extension (except that READMe file)
 Open Chrome and go to chrome://extensions/
 Enable Developer mode (toggle in top-right)
 Click Load unpacked
